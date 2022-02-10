@@ -1,0 +1,5 @@
+Time to process: 0minutes 42.705 seconds
+memory used: frequency.csv-20,780 bytes
+	     t8.shakespeare.translated.txt-5,765,421 bytes
+
+actually there is in vs code memory view is not present so i write like this
